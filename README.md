@@ -1,6 +1,9 @@
 # XMRig
 fork https://github.com/xmrig/xmrig
 
+# 编译
+https://xmrig.com/docs/miner/build
+
 # Centos7升级gcc（centos-release-scl方式）
 
 ## 安装scl源
